@@ -55,7 +55,7 @@ starter-code/
 ├── progression-1
     ├── index.html
     ├── main.js
-    └── main.ts
+    └── appservice.ts
     
 ```
 You are going to work over the *.ts files.
